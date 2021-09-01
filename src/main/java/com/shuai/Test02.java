@@ -9,5 +9,6 @@ public class Test02 {
     public static void main (String[] args) {
         System.out.println ("test02....");
         System.out.println ("aa推送操作....");
+        System.out.println ("cc推送操作....");
     }
 }
