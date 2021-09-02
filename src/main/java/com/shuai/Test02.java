@@ -11,6 +11,6 @@ public class Test02 {
         System.out.println ("aa推送操作....");
         System.out.println ("cc推送操作....");
         System.out.println ("bb推送操作....");
-        System.out.println ("dd推送操作....");
+        System.out.println ("dhajdhhjad....");
     }
 }
